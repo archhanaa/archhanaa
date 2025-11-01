@@ -13,10 +13,20 @@ I love solving problems and building small projects.
 - OOP (upcoming)
 - Mini Backend concepts
 
-### 🎯 Goals (Nov 2024)
+### 🎯 Goals (Nov 2025)
 - Complete DSA basics
 - Push code daily to GitHub
 - Build 2–3 mini Java projects
+
+## 🔁 Recent Practice (Recursion)
+- Factorial recursion
+- Fibonacci recursion
+- Reverse string recursion
+- Sum of digits recursion
+- Palindrome check recursion
+
+## 📅 Daily Progress Log
+- Day 1: Created GitHub profile README, committed recursion programs, drafted resume, started Arrays.
 
 ### 📫 Reach Me
 - LinkedIn: <https://www.linkedin.com/in/archana-n-507428390/>
