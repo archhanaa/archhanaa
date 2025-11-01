@@ -26,7 +26,12 @@ I love solving problems and building small projects.
 - Palindrome check recursion
 
 ## 📅 Daily Progress Log
-- Day 1: Created GitHub profile README, committed recursion programs, drafted resume, started Arrays.
+Day 1:
+• Practiced loop basics (sum, reverse number, multiplication table)
+• Added Basics folder and committed programs
+• Improved GitHub profile README
+• Drafted resume
+
 
 ### 📫 Reach Me
 - LinkedIn: <https://www.linkedin.com/in/archana-n-507428390/>
