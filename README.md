@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Archana!
 
-<!--
-**archhanaa/archhanaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Java developer currently learning Data Structures and Algorithms.
+I love solving problems and building small projects.
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- Java
+- DSA (Recursion, Arrays)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Currently Learning
+- Arrays
+- OOP (upcoming)
+- Mini Backend concepts
+
+### 🎯 Goals (Nov 2024)
+- Complete DSA basics
+- Push code daily to GitHub
+- Build 2–3 mini Java projects
+
+### 📫 Reach Me
+- LinkedIn: <https://www.linkedin.com/in/archana-n-507428390/>
+- GitHub Projects: check pinned repos!
